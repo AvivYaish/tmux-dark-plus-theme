@@ -1,6 +1,6 @@
 # Tmux Dark Plus Theme
 
-Dark+ theme for Tmux.
+Dark+ theme for Tmux, without powerline separators.
 
 ## Installation
 
@@ -8,7 +8,7 @@ Dark+ theme for Tmux.
 
 1.  Add plugin to the list of TPM plugins in `.tmux.conf`:
 
-        set -g @plugin 'khanghh/tmux-dark-plus-theme'
+        set -g @plugin 'AvivYaish/tmux-dark-plus-theme'
 
 2.  Hit `prefix + I` to fetch the plugin and source it. The theme should now be working.
 <!--
