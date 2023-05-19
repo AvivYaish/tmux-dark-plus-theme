@@ -34,16 +34,6 @@ Dark+ theme for Tmux, without powerline separators.
 ![Screenshot 2023-05-19 124232](https://github.com/AvivYaish/tmux-dark-plus-theme/assets/12000894/925ffc1c-34fa-423c-828a-e1be8652b5f2)
 
 
-<p align="center"><img src="./screenshots/preview2.png"/></p>
-
-## Plugin support
-
-### [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)
-
-Plugin that highlight the tmux _prefix_- key status.
-
-<p align="center"><img src="./screenshots/prefix_highlight.png"/></p>
-
 ## License
 
 MIT
