@@ -31,7 +31,7 @@ Dark+ theme for Tmux, without powerline separators.
 
 ## Themes
 
-![Screenshot 2023-05-19 124232](https://github.com/AvivYaish/tmux-dark-plus-theme/assets/12000894/925ffc1c-34fa-423c-828a-e1be8652b5f2)
+![Theme](https://github.com/AvivYaish/tmux-dark-plus-theme/assets/12000894/925ffc1c-34fa-423c-828a-e1be8652b5f2)
 
 
 ## License
